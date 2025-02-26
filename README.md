@@ -8,10 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required libraries and read the dataframe.
+2.Assign hours to X and scores to Y.
+3.Implement training set and test set of the dataframe.
+4.Plot the required graph both for test data and training data.
+5.Find the values of MSE , MAE and RMSE.
 
 ## Program:
 ```
@@ -69,25 +70,25 @@ print("RMSE= ",rmse)
 
 ## Output:
 
-## DATASET
+## DATASET:
 ![Screenshot (71)](https://github.com/user-attachments/assets/66cb55b4-9048-4f22-a5f7-5e4bbf7069d9)
 
-## HEAD VALUES
+## HEAD VALUES:
 ![Screenshot (76)](https://github.com/user-attachments/assets/9af85c60-5f5d-44ea-9df9-2c2700540ac3)
 
-## TAIL VALUES
+## TAIL VALUES:
 ![Screenshot (72)](https://github.com/user-attachments/assets/9235711a-cde1-4ef7-8dbf-31e48bfda55b)
 
-## X AND Y VALUES
+## X AND Y VALUES:
 ![Screenshot (73)(1)](https://github.com/user-attachments/assets/d0920126-89c6-415c-8fa2-f9f6953a64b2)
 
-## PREDICTION VALUES OF X AND Y
+## PREDICTION VALUES OF X AND Y:
 ![Screenshot (73)](https://github.com/user-attachments/assets/b7a9d0ee-e7e7-4838-a071-9cc868193226)
 
-## TRAINING SET
+## TRAINING SET:
 ![Screenshot (74)](https://github.com/user-attachments/assets/f6b098f4-6a79-4450-8c57-efc6cd3d8b84)
 
-## TESTING SET AND MSE,MAE AND MSE
+## TESTING SET AND MSE,MAE AND MSE:
 ![Screenshot (75)](https://github.com/user-attachments/assets/d7e3f30d-9071-4ec2-83e9-7e6c13c58af1)
 
 ## Result:
