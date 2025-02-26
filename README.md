@@ -85,10 +85,10 @@ print("RMSE= ",rmse)
 ![Screenshot (73)](https://github.com/user-attachments/assets/b7a9d0ee-e7e7-4838-a071-9cc868193226)
 
 ## TRAINING SET
-![Screenshot (75)](https://github.com/user-attachments/assets/d7e3f30d-9071-4ec2-83e9-7e6c13c58af1)
+![Screenshot (74)](https://github.com/user-attachments/assets/f6b098f4-6a79-4450-8c57-efc6cd3d8b84)
 
 ## TESTING SET AND MSE,MAE AND MSE
-![Screenshot (74)](https://github.com/user-attachments/assets/f6b098f4-6a79-4450-8c57-efc6cd3d8b84)
+![Screenshot (75)](https://github.com/user-attachments/assets/d7e3f30d-9071-4ec2-83e9-7e6c13c58af1)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
